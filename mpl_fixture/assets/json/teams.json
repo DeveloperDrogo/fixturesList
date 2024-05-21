@@ -1,0 +1,86 @@
+[
+    {
+        "id": 0,
+        "match": "1st match",
+        "teamA": "S.D.C",
+        "teamB": "GS",
+        "teamAlogo":"sdc.jpeg",
+        "teamBlogo":"gs.png"
+        
+        
+    },
+    {
+        "id": 1,
+        "match": "2nd match",
+        "teamA": "SHREE DEVI",
+        "teamB": "RANG WARRIORS",
+        "teamAlogo":"shreedevi.jpeg",
+        "teamBlogo":"rang.jpg"
+    },
+    {
+        "id": 2,
+        "match": "3rd match",
+        "teamA": "S.D.C",
+        "teamB": "SHREE WARRIORS",
+        "teamAlogo":"sdc.jpeg",
+        "teamBlogo":"shree.jpeg"
+    },
+    {
+        "id": 3,
+        "match": "4th match",
+        "teamA": "GS",
+        "teamB": "SHREE DEVI",
+        "teamAlogo":"gs.png",
+        "teamBlogo":"shreedevi.jpeg"
+    },
+    {
+        "id": 4,
+        "match": "5th match",
+        "teamA": "RANG WARRIORS",
+        "teamB": "SHREE WARRIORS",
+        "teamAlogo":"rang.jpg",
+        "teamBlogo":"shree.jpeg"
+    },
+    {
+        "id": 5,
+        "match": "6th match",
+        "teamA": "S.D.C",
+        "teamB": "SHREE DEVI",
+        "teamAlogo":"sdc.jpeg",
+        "teamBlogo":"shreedevi.jpeg"
+    },
+
+    {
+        "id": 6,
+        "match": "7th match",
+        "teamA": "GS",
+        "teamB": "RANG WARRIORS",
+        "teamAlogo":"gs.png",
+        "teamBlogo":"rang.jpg"
+    },
+    {
+        "id": 7,
+        "match": "8th match",
+        "teamA": "SHREE DEVI",
+        "teamB": "SHREE WARRIORS",
+        "teamAlogo":"shreedevi.jpeg",
+        "teamBlogo":"shree.jpeg"
+    },
+    {
+        "id": 7,
+        "match": "9th match",
+        "teamA": "S.D.C",
+        "teamB": "RANG WARRIORS",
+        "teamAlogo":"sdc.jpeg",
+        "teamBlogo":"rang.jpg"
+    },
+
+    {
+        "id": 8,
+        "match": "10th match",
+        "teamA": "GS",
+        "teamB": "SHREE WARRIORS",
+        "teamAlogo":"gs.png",
+        "teamBlogo":"shree.jpeg"
+    }
+]
