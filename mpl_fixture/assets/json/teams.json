@@ -2,85 +2,127 @@
     {
         "id": 0,
         "match": "1st match",
-        "teamA": "S.D.C",
-        "teamB": "GS",
-        "teamAlogo":"sdc.jpeg",
-        "teamBlogo":"gs.png"
+        "teamA": "SLN WARRIORS",
+        "teamB": "SHREE DEVI",
+        "teamAlogo":"sln.jpeg",
+        "teamBlogo":"shreedevi.jpeg"
         
         
     },
     {
         "id": 1,
         "match": "2nd match",
-        "teamA": "SHREE DEVI",
-        "teamB": "RANG WARRIORS",
-        "teamAlogo":"shreedevi.jpeg",
-        "teamBlogo":"rang.jpg"
+        "teamA": "S.D.C SHAMBOOR",
+        "teamB": "SANNIDHI STRIKERS",
+        "teamAlogo":"sdc.jpeg",
+        "teamBlogo":"sannidhi.jpeg"
     },
     {
         "id": 2,
         "match": "3rd match",
-        "teamA": "S.D.C",
+        "teamA": "VFC",
         "teamB": "SHREE WARRIORS",
-        "teamAlogo":"sdc.jpeg",
+        "teamAlogo":"vfc.jpeg",
         "teamBlogo":"shree.jpeg"
     },
     {
         "id": 3,
         "match": "4th match",
-        "teamA": "GS",
-        "teamB": "SHREE DEVI",
-        "teamAlogo":"gs.png",
-        "teamBlogo":"shreedevi.jpeg"
+        "teamA": "SLN WARRIORS",
+        "teamB": "SANNIDHI STRIKERS",
+        "teamAlogo":"sln.jpeg",
+        "teamBlogo":"sannidhi.jpeg"
     },
     {
         "id": 4,
         "match": "5th match",
-        "teamA": "RANG WARRIORS",
-        "teamB": "SHREE WARRIORS",
-        "teamAlogo":"rang.jpg",
-        "teamBlogo":"shree.jpeg"
+        "teamA": "SHREE DEVI",
+        "teamB": "S.D.C SHAMBOOR",
+        "teamAlogo":"shreedevi.jpeg",
+        "teamBlogo":"sdc.jpeg"
     },
     {
         "id": 5,
         "match": "6th match",
-        "teamA": "S.D.C",
-        "teamB": "SHREE DEVI",
-        "teamAlogo":"sdc.jpeg",
-        "teamBlogo":"shreedevi.jpeg"
+        "teamA": "SANNIDHI STRIKERS",
+        "teamB": "VFC",
+        "teamAlogo":"sannidhi.jpeg",
+        "teamBlogo":"vfc.jpeg"
     },
 
     {
         "id": 6,
         "match": "7th match",
-        "teamA": "GS",
-        "teamB": "RANG WARRIORS",
-        "teamAlogo":"gs.png",
-        "teamBlogo":"rang.jpg"
+        "teamA": "SLN WARRIORS",
+        "teamB": "SHREE WARRIORS",
+        "teamAlogo":"sln.jpeg",
+        "teamBlogo":"shree.jpeg"
     },
     {
         "id": 7,
         "match": "8th match",
         "teamA": "SHREE DEVI",
+        "teamB": "VFC",
+        "teamAlogo":"shreedevi.jpeg",
+        "teamBlogo":"vfc.jpeg"
+    },
+    {
+        "id": 8,
+        "match": "9th match",
+        "teamA": "SLN WARRIORS",
+        "teamB": "S.D.C SHAMBOOR",
+        "teamAlogo":"sln.jpeg",
+        "teamBlogo":"sdc.jpeg"
+    },
+
+    {
+        "id": 9,
+        "match": "10th match",
+        "teamA": "SHREE DEVI",
         "teamB": "SHREE WARRIORS",
         "teamAlogo":"shreedevi.jpeg",
         "teamBlogo":"shree.jpeg"
     },
+
     {
-        "id": 7,
-        "match": "9th match",
-        "teamA": "S.D.C",
-        "teamB": "RANG WARRIORS",
-        "teamAlogo":"sdc.jpeg",
-        "teamBlogo":"rang.jpg"
+        "id": 10,
+        "match": "11th match",
+        "teamA": "SLN WARRIORS",
+        "teamB": "VFC",
+        "teamAlogo":"sln.jpeg",
+        "teamBlogo":"vfc.jpeg"
     },
 
     {
-        "id": 8,
-        "match": "10th match",
-        "teamA": "GS",
-        "teamB": "SHREE WARRIORS",
-        "teamAlogo":"gs.png",
-        "teamBlogo":"shree.jpeg"
+        "id": 11,
+        "match": "12th match",
+        "teamA": "SHREE WARRIORS",
+        "teamB": "S.D.C SHAMBOOR",
+        "teamAlogo":"shree.jpeg",
+        "teamBlogo":"sdc.jpeg"
+    },
+    {
+        "id": 12,
+        "match": "13th match",
+        "teamA": "SHREE DEVI",
+        "teamB": "SANNIDHI STRIKERS",
+        "teamAlogo":"shreedevi.jpeg",
+        "teamBlogo":"sannidhi.jpeg"
+    },
+    {
+        "id": 13,
+        "match": "14th match",
+        "teamA": "VFC",
+        "teamB": "S.D.C SHAMBOOR",
+        "teamAlogo":"vfc.jpeg",
+        "teamBlogo":"sdc.jpeg"
+    },
+    {
+        "id": 14,
+        "match": "15th match",
+        "teamA": "SHREE WARRIORS",
+        "teamB": "SANNIDHI STRIKERS",
+        "teamAlogo":"shree.jpeg",
+        "teamBlogo":"sannidhi.jpeg"
     }
 ]
